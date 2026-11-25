@@ -1,0 +1,11 @@
+yfinance==0.2.50
+requests
+pandas
+numpy
+pyspark==3.5.1
+kafka-python
+scikit-learn
+sqlalchemy
+psycopg2-binary
+streamlit
+plotly
